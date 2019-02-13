@@ -167,6 +167,7 @@
       <DependentUpon>20190213180340_Init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\ApplicationDbContextModelSnapshot.cs" />
+    <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
